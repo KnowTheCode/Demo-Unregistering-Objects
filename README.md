@@ -2,6 +2,11 @@
 
 Ok kids, here are the two plugins for you to test out the title enhancer. This repo is for *demo* purposes only.  This is not a production ready.  It's merely to give you the means to test getting the instance(s) of a class construct.
 
+This repo accompanies the documentation and video explanations found on our site:
+
+* [remove_action](https://knowthecode.io/docx/wordpress/remove_action)
+* [remove_filter](https://knowthecode.io/docx/wordpress/remove_filter)
+
 ## Installation
 
 1. Download it.
